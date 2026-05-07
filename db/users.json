@@ -1,0 +1,30 @@
+{
+  "nasir": {
+    "username": "nasir",
+    "password": "Jomana1234567",
+    "student_type": "علمي",
+    "telegram_user_id": "5842116669",
+    "telegram_username": null,
+    "telegram_first_name": "ٓ",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_5.jpg",
+    "session_id": "e29956c4-55ac-4dfb-bfd0-5d8a5348052f",
+    "created_at": "2026-05-07T17:31:42.706045",
+    "verified": true,
+    "last_login": "2026-05-07T17:31:45.905179",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "math",
+      "literary_studies",
+      "linguistic_studies",
+      "physics_mechanic",
+      "biology",
+      "chemistry",
+      "physics_electric",
+      "it",
+      "statistics",
+      "english"
+    ],
+    "server_num": 8
+  }
+}
