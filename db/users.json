@@ -54,5 +54,23 @@
       "linguistic_studies"
     ],
     "server_num": 8
+  },
+  "moad345moadgmailco": {
+    "username": "moad345moadgmailco",
+    "password": "Tr964Gfcg_!e9:q",
+    "student_type": "علمي",
+    "telegram_user_id": "7644060051",
+    "telegram_username": null,
+    "telegram_first_name": "Moad",
+    "profile_photo_url": null,
+    "session_id": "d0e8e5ba-3a34-4dd8-8757-121e0e6c8d89",
+    "created_at": "2026-05-30T15:45:58.354332",
+    "verified": true,
+    "last_login": "2026-05-30T15:46:01.168531",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 8
   }
 }
